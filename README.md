@@ -1,5 +1,5 @@
 ### Hi there 👋, Chaitany Arora
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I love coding and development.
 

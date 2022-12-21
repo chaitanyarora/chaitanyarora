@@ -5,7 +5,7 @@ I love coding and development.
 
 Skills: PYTHON | HTML | CSS | JAVASCRIPT
 
-- 🔭 I’m currently working on BoTLab Dynamics 
+
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on Python projects 
 - 🤔 I’m looking for help with Advanced Python 
